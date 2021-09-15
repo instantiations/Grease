@@ -1,0 +1,1 @@
+Package { #name : #'Grease-Tests-Squeak5-Core' }
